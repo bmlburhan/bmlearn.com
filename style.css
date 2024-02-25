@@ -1,0 +1,25 @@
+.section1{
+    background-color: rgb(218, 236, 166);
+    text-align: center;
+    text-shadow: 0cap;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.section2{
+    text-align: center;
+    font-size: x-large;
+}
+
+.section3{
+    font-size: x-large;
+}
+hr{
+    color: blue;
+}
+p{
+    font-size: x-large;
+}
+li{
+    font-size: x-large;
+}
